@@ -1,0 +1,15 @@
+The 0th: 
+ref: Karratha Police hat einen 20-jährigen Mann beschuldigt , nicht aufzuhalten und rücksichtslos zu fahren .
+hyp 0: Am Walcott Way in Bulgarra wurde dann das Motorrad und eine Person entdeckt , die der Beschreibung des Fahrers entspricht .
+[(-1, 'Am Walcott Way in Bulgarra wurde dann das Motorrad und eine Person entdeckt , die der Beschreibung des Fahrers entspricht'), (1, 'Karratha Police hat einen 20-jährigen Mann beschuldigt , nicht aufzuhalten und rücksichtslos zu fahren'), (0, ' .')] 
+
+The 1th: 
+ref: Karratha Police hat einen 20-jährigen Mann beschuldigt , nicht aufzuhalten und rücksichtslos zu fahren .
+hyp 1: Karratha Police hat einem 20-jährigen Mann vorgeworfen , dass er nicht gestoppt und rücksichtslos fährt .
+[(0, 'Karratha Police hat eine'), (-1, 'm 20-jährigen Mann vorgeworfen , dass er nicht gestoppt und rücksichtslos fährt'), (1, 'n 20-jährigen Mann beschuldigt , nicht aufzuhalten und rücksichtslos zu fahren'), (0, ' .')] 
+
+The 2th: 
+ref: Karratha Police hat einen 20-jährigen Mann beschuldigt , nicht aufzuhalten und rücksichtslos zu fahren .
+hyp 2: Karratha Police hat einen 20-jährigen Mann beschuldigt , nicht zu stoppen und rücksichtslos zu fahren .
+[(0, 'Karratha Police hat einen 20-jährigen Mann beschuldigt , nicht '), (-1, 'zu stopp'), (1, 'aufzuhalt'), (0, 'en und rücksichtslos zu fahren .')] 
+
